@@ -18,5 +18,5 @@ The T handle is pulled and the pinion is no longer connected to the rack (the pi
 <img width="4800" height="2700" alt="Subsystem 4-Roller" src="https://github.com/user-attachments/assets/c9745703-5533-43a0-9e28-8d468f27f240" />
 
 ## Working Principle Videos
-[Rolling Mechanism](https://drive.google.com/file/d/1PFcs1t6mLlvRZ7Iutqztk1Bfu1w5O9Ds/view?usp=drive_link)
-[Free and Convey Mode Explanation](https://drive.google.com/file/d/1x7zLehKSwQxgIYarqk7vax8ZZcu_8lYC/view?usp=drive_link)
+1. [Rolling Mechanism](https://drive.google.com/file/d/1PFcs1t6mLlvRZ7Iutqztk1Bfu1w5O9Ds/view?usp=drive_link)
+2. [Free and Convey Mode Explanation](https://drive.google.com/file/d/1x7zLehKSwQxgIYarqk7vax8ZZcu_8lYC/view?usp=drive_link)
