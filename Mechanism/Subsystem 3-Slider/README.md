@@ -14,7 +14,7 @@ This is the system which slides and helps in the transfer of the patient
 
 ## Bearings in the sliding mechanism
 
-The cassettes slide out over the bed on linear guides, it is the same kind of ball-bearing rail used in CNC machines and 3D printers
+The cassettes slide out over the bed on linear guides, it is the same kind of ball-bearing rail used in CNC machines and 3D printers.
 
 - Rails (item 20): 4 × MGN15 steel rails, 580 mm long, bolted to the inside of the cheek plates (17 on the seat, 31 on the back). Each cassette runs between two rails.
 - Carriages (item 20A): 8 × MGN15H carriages, 2 on each cassette end plate (26). Inside every carriage, small steel balls circulate in a closed loop between the carriage and the rail.
