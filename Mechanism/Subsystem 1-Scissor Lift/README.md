@@ -30,4 +30,4 @@ The crank (15) turns a lead screw (12, Tr20×4). The screw pulls a bronze nut (1
   - **6004 deep-groove ball bearing** (20 × 42 × 12): holds the screw **centred** and takes the side (radial) load from the crank.
 
 
-**Note: the screw still can't run back by itself.** The bearings only reduce friction at the block. The self-locking comes from the screw thread itself: its 4.0° thread angle is below the 7.1° friction angle. So the bearings make cranking easier without making the lift slip. Let go of the crank and the chair stays where it is.
+**Note: the screw still can't run back by itself.** The bearings only reduce friction at the block. The self-locking comes from the screw thread itself: its 4.0° thread angle is below the 7.1° friction angle. So the bearings make cranking easier without making the lift slip. Letting go of the keeps the chair stays where it is.
