@@ -1,4 +1,4 @@
-# Contains 3d pics of the modes of the wheel chair and also the part wise labelled exploded view with materials and specs for each part
+# Contains 3D pics of the modes of the wheel chair and also the part wise labelled exploded view with materials and specs for each part
 
 ## Subsystems Map
 <img width="4800" height="2700" alt="Subsystems Map" src="https://github.com/user-attachments/assets/add44a2e-ba37-49d4-9a27-19af17df6b2c" />
