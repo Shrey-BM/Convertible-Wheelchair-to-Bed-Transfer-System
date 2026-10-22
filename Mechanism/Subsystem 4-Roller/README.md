@@ -20,3 +20,15 @@ The T handle is pulled and the pinion is no longer connected to the rack (the pi
 ## Working Principle Videos
 1. [Rolling Mechanism](https://drive.google.com/file/d/1PFcs1t6mLlvRZ7Iutqztk1Bfu1w5O9Ds/view?usp=drive_link)
 2. [Free and Convey Mode Explanation](https://drive.google.com/file/d/1x7zLehKSwQxgIYarqk7vax8ZZcu_8lYC/view?usp=drive_link)
+
+##Bearings in the rolling mechanism
+
+Each cassette has an endless belt wrapped around two rollers, like a small treadmill. The rollers turn on sealed ball bearings.
+
+- Rollers (item 27): aluminium tube Ø24 with a short steel axle (Ø8) pressed into each end. The tube and axles turn together as one piece. 2 per cassette, 4 in total (366 mm long on the seat, 756 mm on the back).
+- Bearings (item 27A): 8 × 688-2RS deep-groove ball bearings (8 mm bore × 16 mm outside × 5 mm wide), one at each end of every roller, held in Ø16 holes in the cassette end plates (26). "2RS" means rubber seals on both sides, which keep out dust, lint and cleaning fluid and hold the grease in, so no oiling is needed.
+
+**How they work with the drive:**
+- The caregiver-side roller also carries the **pinion (29)**.
+- **CONVEY:** the pinion meshes with the rack (21). As the cassette slides, the rack turns the pinion and roller, and the belt moves, carrying the patient twice as far as the cassette travels.
+- **FREE:** the pinion is lifted out of mesh. Both rollers just spin on their bearings, so the belt rolls freely and can slip out from under the patient without rubbing the skin.
