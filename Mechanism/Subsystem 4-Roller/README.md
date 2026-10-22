@@ -21,7 +21,7 @@ The T handle is pulled and the pinion is no longer connected to the rack (the pi
 1. [Rolling Mechanism](https://drive.google.com/file/d/1PFcs1t6mLlvRZ7Iutqztk1Bfu1w5O9Ds/view?usp=drive_link)
 2. [Free and Convey Mode Explanation](https://drive.google.com/file/d/1x7zLehKSwQxgIYarqk7vax8ZZcu_8lYC/view?usp=drive_link)
 
-##Bearings in the rolling mechanism
+## Bearings in the rolling mechanism
 
 Each cassette has an endless belt wrapped around two rollers, like a small treadmill. The rollers turn on sealed ball bearings.
 
