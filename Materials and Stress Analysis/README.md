@@ -46,12 +46,12 @@ The table gives the strength values used in every safety factor in this document
 |---|---|---|---|---|---|---|
 | **Scissor arms (×4)** | Mild steel | Tube 50 × 25 × 2.6 wall | 550 between pins | 363 | 112,056 | 4,482 |
 | **Base frame** | Mild steel | Tube 40 × 40 × 2.6 wall | 1040 × 700 frame | 389 | 91,115 | 4,556 |
-| **Lift top frame, seat side rails** | Mild steel / aluminium | Tube 40 × 20 × 2 wall | 630 / 470 | 224 | 44,459 | 2,223 |
-| **Backrest side tubes (×2)** | Aluminium | Tube 40 × 20 × 3 wall | about 840 | 324 | 60,812 | 3,041 |
+| **Lift top frame, seat side rails** | Mild steel / aluminium | Tube 40 × 20 × 2 wall | 630 / 517 | 224 | 44,459 | 2,223 |
+| **Backrest side tubes (×2)** | Aluminium | Tube 40 × 20 × 3 wall | 818 | 324 | 60,812 | 3,041 |
 | **Scissor cross shafts (×4)** | Mild steel | Round tube Ø25 × 3 wall | 424 | 207 | 12,778 | 1,022 |
 | **Lead screw** | EN8 steel | Tr20 × 4 thread, core Ø15.5 | 780 | 189 | - | - |
 | **Tie-rod** | Mild steel | Flat bar 25 × 8 | 482 between pins | 200 | 1,067 (thin way) | 267 |
-| **Sliding board (back)** | Aluminium | 5 tubes 25 × 16.5 × 1.5 + 1.3 sheet, 17.8 deep | 766 span | 1,207 | 48,180 | 3,738 |
+| **Sliding board (back)** | Aluminium | 5 tubes 25 × 16.5 × 1.5 + 1.3 sheet, 17.8 deep | 760 | 1,207 | 48,180 | 3,738 |
 | **Bed clamp arm (×2)** | Mild steel | Tube 25 × 24 × 2 wall | 90 | 180 | 14,800 | 1,233 |
 | **Pins** | EN8 / SS304 | Centre pin Ø20, pivot pins Ø12, locking pins Ø8 | - | 314 / 113 / 50 | - | - |
 
